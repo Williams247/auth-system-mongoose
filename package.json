@@ -1,5 +1,5 @@
 {
-    "name": "monicontrib",
+    "name": "auth-system-mongoose",
     "version": "1.0.0",
     "description": "Application",
     "main": "server.ts",
